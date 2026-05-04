@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi! I'm Ana Cristina 👋
 
-<!--
-**anacristinarodriguez/anacristinarodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UX/UI Designer | Product Designer | Frontend Developer**
 
-Here are some ideas to get you started:
+User-centered design + responsive interface development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Specialization
+- 🎨 UX/UI Design - Figma, Prototyping, Design Systems
+- 💻 Frontend Development - React, HTML5, CSS3
+- 📱 Responsive Design & Accessibility
+- 🔍 User Research & Usability Testing
+- 🎭 Visual Design & Brand Design
+
+---
+
+## 📊 My Approach
+
+I combine **user research** + **visual design** + **frontend development** 
+to create accessible and intuitive digital products.
+
+---
+
+## 🛠️ Tools & Technologies
+**Design**: Figma, Procreate, Adobe XD, Photoshop
+**Frontend**: React, JavaScript, HTML5, CSS3
+**Other**: Git, Prototyping, Design Systems, Accessibility (WCAG)
+
+---
+
+## 📁 Featured Projects
+
+My projects showcase my complete design + development process:
+
+- **Full Case Studies**: Research → Wireframes → High-fidelity → Code
+- **Reusable Components**: UI component libraries
+- **Design Systems**: Scalable design documentation
+
+---
+
+## 🎯 What I Do
+
+✨ Transform user insights into beautiful, functional interfaces
+
+---
+
+## 📫 Let's Connect
+- 🌐 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 prodriguezdiaz@g.harvard.edu
