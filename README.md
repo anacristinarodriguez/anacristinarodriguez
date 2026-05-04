@@ -46,6 +46,6 @@ My projects showcase my complete design + development process:
 ---
 
 ## 📫 Let's Connect
-- 🌐 [Portfolio]([https://yourportfolio.com](https://anacristinarodriguez.github.io))
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ana-cristina-rodríguez-283262230/))
+- 🌐 [Portfolio](https://anacristinarodriguez.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ana-cristina-rodríguez-283262230/)
 - 📧 anacristinard1@gmail.com
