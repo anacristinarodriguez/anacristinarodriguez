@@ -29,16 +29,6 @@ to create accessible and intuitive digital products.
 
 ---
 
-## 📁 Featured Projects
-
-My projects showcase my complete design + development process:
-
-- **Full Case Studies**: Research → Wireframes → High-fidelity → Code
-- **Reusable Components**: UI component libraries
-- **Design Systems**: Scalable design documentation
-
----
-
 ## 🎯 What I Do
 
 ✨ Transform user insights into beautiful, functional interfaces
